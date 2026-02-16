@@ -1,0 +1,17 @@
+# Core FastAPI dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Database - Supabase client
+supabase==2.3.4
+
+# For audio streaming support
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Optional but recommended
+python-multipart==0.0.6
